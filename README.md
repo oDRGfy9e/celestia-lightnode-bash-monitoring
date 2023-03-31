@@ -1,0 +1,1 @@
+# celestiat-lightnode-bash-monitoring
